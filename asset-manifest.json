@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codePlayGround/static/css/main.3da42fa9.chunk.css",
-    "main.js": "/codePlayGround/static/js/main.064e466c.chunk.js",
-    "runtime-main.js": "/codePlayGround/static/js/runtime-main.88b185a6.js",
-    "static/js/2.813c8ee9.chunk.js": "/codePlayGround/static/js/2.813c8ee9.chunk.js",
-    "index.html": "/codePlayGround/index.html",
-    "static/js/2.813c8ee9.chunk.js.LICENSE.txt": "/codePlayGround/static/js/2.813c8ee9.chunk.js.LICENSE.txt"
+    "main.css": "/codeplayground/static/css/main.3da42fa9.chunk.css",
+    "main.js": "/codeplayground/static/js/main.427ca67f.chunk.js",
+    "runtime-main.js": "/codeplayground/static/js/runtime-main.27cc47d7.js",
+    "static/js/2.813c8ee9.chunk.js": "/codeplayground/static/js/2.813c8ee9.chunk.js",
+    "index.html": "/codeplayground/index.html",
+    "static/js/2.813c8ee9.chunk.js.LICENSE.txt": "/codeplayground/static/js/2.813c8ee9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88b185a6.js",
+    "static/js/runtime-main.27cc47d7.js",
     "static/js/2.813c8ee9.chunk.js",
     "static/css/main.3da42fa9.chunk.css",
-    "static/js/main.064e466c.chunk.js"
+    "static/js/main.427ca67f.chunk.js"
   ]
 }
