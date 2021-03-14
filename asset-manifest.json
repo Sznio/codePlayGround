@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/codeplayground/static/css/main.3da42fa9.chunk.css",
-    "main.js": "/codeplayground/static/js/main.8989b30e.chunk.js",
+    "main.css": "/codeplayground/static/css/main.2cf49fdf.chunk.css",
+    "main.js": "/codeplayground/static/js/main.3824be6c.chunk.js",
     "runtime-main.js": "/codeplayground/static/js/runtime-main.27cc47d7.js",
     "static/js/2.813c8ee9.chunk.js": "/codeplayground/static/js/2.813c8ee9.chunk.js",
     "index.html": "/codeplayground/index.html",
@@ -10,7 +10,7 @@
   "entrypoints": [
     "static/js/runtime-main.27cc47d7.js",
     "static/js/2.813c8ee9.chunk.js",
-    "static/css/main.3da42fa9.chunk.css",
-    "static/js/main.8989b30e.chunk.js"
+    "static/css/main.2cf49fdf.chunk.css",
+    "static/js/main.3824be6c.chunk.js"
   ]
 }
