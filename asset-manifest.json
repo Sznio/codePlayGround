@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codeplayground/static/css/main.2cf49fdf.chunk.css",
-    "main.js": "/codeplayground/static/js/main.3824be6c.chunk.js",
+    "main.js": "/codeplayground/static/js/main.b0bccff0.chunk.js",
     "runtime-main.js": "/codeplayground/static/js/runtime-main.27cc47d7.js",
     "static/js/2.813c8ee9.chunk.js": "/codeplayground/static/js/2.813c8ee9.chunk.js",
     "index.html": "/codeplayground/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.27cc47d7.js",
     "static/js/2.813c8ee9.chunk.js",
     "static/css/main.2cf49fdf.chunk.css",
-    "static/js/main.3824be6c.chunk.js"
+    "static/js/main.b0bccff0.chunk.js"
   ]
 }
